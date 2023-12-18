@@ -1,0 +1,38 @@
+[
+  {
+    "name":  "Beaver",
+    "url": "https://loremflickr.com/320/240/beaver,nature,animal/all"
+  },
+  {
+    "name":  "Deer",
+    "url": "https://loremflickr.com/320/240/deer,nature,animal/all"
+  },
+  {
+    "name":  "Wolf",
+    "url": "https://loremflickr.com/320/240/wolf,nature,animal/all"
+  },
+  {
+    "name":  "Bear",
+    "url": "https://loremflickr.com/320/240/bear,nature,animal/all"
+  },
+  {
+    "name":  "Elephant",
+    "url": "https://loremflickr.com/320/240/elephant,nature,animal/all"
+  },
+  {
+    "name":  "Rhino",
+    "url": "https://loremflickr.com/320/240/rhino,nature,animal/all"
+  },
+  {
+    "name":  "Eagle",
+    "url": "https://loremflickr.com/320/240/eagle,nature,animal/all"
+  },
+  {
+    "name":  "Sneak",
+    "url": "https://loremflickr.com/320/240/sneak,nature,animal/all"
+  },
+  {
+    "name":  "Rabbit",
+    "url": "https://loremflickr.com/320/240/rabbit,nature,animal/all"
+  }
+]
